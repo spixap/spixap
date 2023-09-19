@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @spixap
-- 👀 I’m interested in: _data-driven numerical optimal control and energy management under uncertainty, for isolated power systems._
-- 🌱 I’m currently writing my PhD thesis on: _Energy Management and Control of Offshore Platforms Integrating Renwable Energy_
-- 💞️ I’m looking to collaborate on: _statistical and machine learning methods applied to power systems_
-- 📫 More infromation about me [here](https://ieeexplore.ieee.org/document/9269441](https://www.ntnu.edu/employees/spyridon.chapaloglou/ "Named link title")
+- 👀 I’m interested in: _data-driven energy management systems, optimization under uncertainty, and stochastic MPC._
+- 🌱 My [PhD thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3063627) was on _Data-driven sizing and control of energy storage for wind-powered offshore platforms_
+- 💞️ I’m looking to collaborate on _machine learning methods applied to energy management algorithms and power systems_
+- 📫 More infromation about me [here](https://www.sintef.no/en/all-employees/employee/spyridon.chapaloglou/)
 
 <!---
 spixap/spixap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
